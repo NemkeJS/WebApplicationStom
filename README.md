@@ -1,2 +1,2 @@
 # WebApplicationStom
-Restful web service aplication using Java EE
+Restful web service application using Java EE
